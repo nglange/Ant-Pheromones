@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<reportfile>
+<parameters>
+	<rDebug>0</rDebug>
+	<seed>1329346914554</seed>
+	<stopT>100</stopT>
+	<sizeX>100</sizeX>
+	<sizeY>100</sizeY>
+	<activationOrder>0</activationOrder>
+	<bestWinsProb>0.9</bestWinsProb>
+	<diffusionK>0.9</diffusionK>
+	<evapRate>1.0</evapRate>
+	<exogRate>0.3</exogRate>
+	<initialAgentsFileName></initialAgentsFileName>
+	<initialParametersFileName></initialParametersFileName>
+	<initialSteps>100</initialSteps>
+	<numAnts>60</numAnts>
+	<numFoods>3</numFoods>
+	<outputDirName>./</outputDirName>
+	<pherReportFrequency>9999999</pherReportFrequency>
+	<pherReportFileName></pherReportFileName>
+	<probDieCenterMean>0.0</probDieCenterMean>
+	<probDieCenterMutSD>0.0</probDieCenterMutSD>
+	<probDieCenterSD>0.0</probDieCenterSD>
+	<probRandMoveMean>0.0</probRandMoveMean>
+	<probRandMoveMutSD>0.0</probRandMoveMutSD>
+	<probRandMoveSD>0.0</probRandMoveSD>
+	<reportFrequency>1</reportFrequency>
+	<reportFileName>report</reportFileName>
+	<runNumber>0</runNumber>
+	<randomMoveMethod>0</randomMoveMethod>
+	<saveRunEndState>0</saveRunEndState>
+	<tournamentSize>2</tournamentSize>
+</parameters>
+</reportfile>
