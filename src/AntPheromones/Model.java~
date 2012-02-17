@@ -453,7 +453,19 @@ public class Model extends ModelParameters {
 		}
 
 	}
+
+	/**
+	// growFoods
+	// create food objects around each existing food objects
+	// for each existing food object, find open neighbors, place food objects
+	// in each open cell, and iterate a set number of times
+	*/
 	
+	public void growFoods ( ) {
+		// find open neighbor cells
+		
+
+	}
 	/**
 	 * Again, stolen from Rick.
 	 * Create one new Food, with initial values set by draws from
