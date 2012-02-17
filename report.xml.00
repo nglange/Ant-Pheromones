@@ -2,7 +2,7 @@
 <reportfile>
 <parameters>
 	<rDebug>0</rDebug>
-	<seed>1329346914554</seed>
+	<seed>1329505326591</seed>
 	<stopT>100</stopT>
 	<sizeX>100</sizeX>
 	<sizeY>100</sizeY>
@@ -32,4 +32,3 @@
 	<saveRunEndState>0</saveRunEndState>
 	<tournamentSize>2</tournamentSize>
 </parameters>
-</reportfile>

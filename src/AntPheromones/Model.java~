@@ -290,7 +290,8 @@ public class Model extends ModelParameters {
 		if ( rDebug > 0 )
 			System.out.printf( "==> userSetup...\n" );
 
-		antList = null;    				// discard old list 
+		antList = null;
+		foodList = null; // discard old list 
 		world = null;                   // get rid of the world object!
 		pSpace = null;
 		pSpaceCarryingFood = null;
